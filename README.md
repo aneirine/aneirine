@@ -1,6 +1,8 @@
 ### Hi, I'm Anna 👋
 I'm working as a Java Backend Developer using Spring Framework.
-I’m currently learning recative web on Spring (WebFlux) and microservice architecture, which i already like a lot
+
+I’m currently learning recative web on Spring (WebFlux) and microservice architecture, which i already like a lot.
+
 Like programming, but have no idea what to code. So, if you have one just write me on LinkedIn
 
 
