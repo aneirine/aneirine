@@ -5,7 +5,7 @@
 👩‍💻I'm working as a Java Backend Developer using Spring Framework.
 For a long time, I was passionate about developing applications for Android.📱
 
-🍃I’m currently learning recative web on Spring (WebFlux) and microservice architecture, which i already like a lot.
+🍃I’m currently learning reactive web on Spring (WebFlux) and microservice architecture, which i already like a lot.
 Like programming, but have no idea what to code. So, if you have one or you need backend for your project just write me. 
 
 #### How to reach me:
