@@ -1,15 +1,15 @@
 ### Hi, I'm Anna 👋🇺🇦
 
 
-👩‍💻I'm working as a Java Backend Developer using Spring Framework.
+👩‍💻 I'm working as a Java Backend Developer using Spring Framework.
 For a long time, I was passionate about developing applications for Android.📱
 
-🍃I’m currently learning reactive web on Spring (WebFlux) and microservice architecture, which i already like a lot.
+🍃 I’m currently learning reactive web on Spring (WebFlux) and microservice architecture, which i already like a lot.
 Like programming, but have no idea what to code. So, if you have one or you need backend for your project just write me. 
 
 #### How to reach me:
 🚀 [Telegram](https://t.me/aneirine)  
-✉️[Gmail](anyashi2002@gmail.com)  
+✉️[Gmail] anyashi2002@gmail.com 
 🗳[LinkedIn](https://www.linkedin.com/in/anna-shypilova/) 
 
 
