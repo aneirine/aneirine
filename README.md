@@ -1,5 +1,4 @@
 ### Hi, I'm Anna 👋🇺🇦
-<img src="https://octodex.github.com/images/motherhubbertocat.png" data-canonical-src="https://octodex.github.com/images/motherhubbertocat.png" width="350" align="left" height="350" />
 
 
 👩‍💻I'm working as a Java Backend Developer using Spring Framework.
