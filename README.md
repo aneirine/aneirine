@@ -9,7 +9,9 @@ Like programming, but have no idea what to code. So, if you have one or you need
 
 #### How to reach me:
 🚀 [Telegram](https://t.me/aneirine)  
-✉️[Gmail] anyashi2002@gmail.com 
+
+✉️ Gmail anyashi2002@gmail.com
+
 🗳[LinkedIn](https://www.linkedin.com/in/anna-shypilova/) 
 
 
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
